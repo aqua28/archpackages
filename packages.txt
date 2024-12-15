@@ -21,7 +21,7 @@ xl2tpd
 # package management
 reflector
 #desktop integration
-accountservice
+accountsservice
 bash-completion
 bluez
 bluez-utils
@@ -39,9 +39,9 @@ xdg-utils
 # filesystem
 efitools
 nfs-utils
-nilf-utils
+nilfs-utils
 ntp
-smartmoontools
+smartmontools
 unrar
 unzip
 xz
@@ -155,8 +155,8 @@ plasma-systemmonitor
 plasma-workspace
 powerdevil
 print-manager
-qt6-image-formats
+qt6-imageformats
 sddm-kcm
 spectacle
-xdk-desktop-portal-kde
+xdg-desktop-portal-kde
 xsettingsd
