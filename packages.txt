@@ -1,6 +1,6 @@
-### desktop-base
+# desktop-base
 
-#gpu
+# gpu
 xf86-video-ati
 xf86-video-amdgpu
 
@@ -18,7 +18,7 @@ wpa_supplicant
 usb_modeswitch
 xl2tpd
 
-#package management
+# package management
 reflector
 #desktop integration
 accountservice
@@ -36,7 +36,7 @@ poppler-glib
 xdg-user-dirs
 xdg-utils
 
-#filesystem
+# filesystem
 efitools
 nfs-utils
 nilf-utils
@@ -46,7 +46,7 @@ unrar
 unzip
 xz
 
-#fonts
+# fonts
 cantarell-fonts
 freetype2
 noto-fonts
@@ -58,7 +58,7 @@ ttf-dejavu
 ttf-liberation
 ttf-opensans
 
-#audio
+# audio
 pipewire-pulse
 pipewire-alsa
 pipewire-jack
@@ -69,7 +69,7 @@ alsa-utils
 pavucontrol
 rtkit
 
-#hardware
+# hardware
 dmidecode
 dmraid
 hdparm
@@ -78,14 +78,14 @@ mtools
 sg3_utils
 sof-firmware
 
-#power
+# power
 power-profiles-daemon
 upower
 
-#microcode
+# microcode
 amd-ucode
 
-#recommended
+# recommended
 duf
 findutils
 git
@@ -102,19 +102,19 @@ wget
 neovim
 mpv
 
-#spelling
+# spelling
 aspell
 aspell-uk
 aspell-sv
 
-#firewall
+# firewall
 firewalld
 python-pyqt5
 python-capng
 
 
 
-#kde
+# kde
 ark
 bluedevil
 breeze-gtk
