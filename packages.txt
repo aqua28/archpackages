@@ -8,7 +8,7 @@ xf86-video-amdgpu
 dnsmasq
 dnsutils
 ethtool
-iwdtool
+iwd
 networkmanager
 networkmanager-openconnect
 networkmanager-openvpn
