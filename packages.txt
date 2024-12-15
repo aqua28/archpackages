@@ -96,7 +96,6 @@ vi
 vim
 wget
 neovim
-mpv
 
 
 aspell
